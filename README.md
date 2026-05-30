@@ -217,7 +217,7 @@ This document represents a conceptual framework and theoretical model intended f
 
 ## Authors
 
-InchaComisho
+Author: Master Handle: inchacomisho / inchacomusho
 
 ---
 
