@@ -183,6 +183,15 @@ Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 - [Deep-Sea-Aeration](https://github.com/InchaComisho/Deep-Sea-Aeration) — 深海エアレーションを海洋代謝再起動技術として定義する基礎リポジトリ。
 - [Direct-Planetary-Cooling-Integrated-Repository-Index](https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index) — DPC関連の統合索引。
 
+### 地球温暖化の因果構造とクーリングクレジット
+
+- [NOTE記事：温暖化の原因と因果関係](https://note.com/inchacomusho/n/n5b2102ffc1c2)
+- [Global Warming Causal Structure](https://github.com/InchaComisho/Global-Warming-Causal-Structure)
+- [Global Warming Causal Structure - GitHub Pages](https://inchacomisho.github.io/Global-Warming-Causal-Structure/)
+- [Cooling Credit Definition](https://github.com/InchaComisho/Cooling-Credit-Definition)
+
+
+
 ## キーワード
 
 地球温暖化, 気候変動, 炭素吸収源崩壊, 炭素固定システム, 熱暴走, 正のフィードバック, Ocean Breathing System, OBS, 自然補完科学, 炭素循環, 海洋代謝, 地球システム科学, 人工叡智
