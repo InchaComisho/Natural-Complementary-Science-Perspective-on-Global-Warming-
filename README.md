@@ -2,6 +2,8 @@
 
 # A Hypothesis Model of Thermal Runaway, Carbon Sink Collapse, and Ocean Breathing System (OBS) Intervention
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## Abstract
 
 Current climate mitigation strategies primarily focus on reducing anthropogenic CO₂ emissions. While emission reduction is essential, this approach may not fully explain the accelerating instability observed in the Earth system.

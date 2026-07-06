@@ -1,5 +1,7 @@
 # 自然補完科学から見た地球温暖化
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## 熱暴走・炭素吸収源崩壊・Ocean Breathing System（OBS）介入の仮説モデル
 
 > English version: [README.md](./README.md)
