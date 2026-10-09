@@ -1,5 +1,7 @@
 # Natural Complementary Science Perspective on Global Warming:
 
+[日本語版はこちら / Japanese version](README_ja.md)
+
 # A Hypothesis Model of Thermal Runaway, Carbon Sink Collapse, and Ocean Breathing System (OBS) Intervention
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
